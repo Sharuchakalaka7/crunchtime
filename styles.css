@@ -1,0 +1,14 @@
+/* General styles */
+body {
+	background-color: rgba(0, 0, 0, 0.9);
+}
+* {
+	color: rgba(255, 255, 255, 0.9);
+}
+
+/* .Class styles */
+
+/* #Id styles */
+#crunchtime {
+	border: rgba(0, 255, 255, 0.3);
+}
